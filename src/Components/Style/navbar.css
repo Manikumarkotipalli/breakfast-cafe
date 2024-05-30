@@ -1,0 +1,52 @@
+.unodlist {
+    list-style: none; /* Remove default list styles */
+    padding: 0; /* Remove default padding */
+    margin: 20px;
+    display: flex;
+    margin-right: 15px;
+    
+    
+    
+  }
+  .navbar {
+    background-color: #f2aaaa; /* Dark background color */
+    color: white; /* Text color */
+    padding: 10px; /* Padding around the navbar */
+    display: flexbox; /* Use flexbox to arrange items */
+    justify-content: space-between; /* Space items evenly horizontally */
+    align-items: center;
+  }
+  .hp a{
+    color: white; /* Link text color */
+    text-decoration: none; /* Remove default underline */
+    margin: 0 15px; /* Add some space around the links */
+    font-weight: bold; /* Make the text bold */
+  font-size: 25px;
+}
+  .about a{
+    color: white; /* Link text color */
+  text-decoration: none; /* Remove default underline */
+  margin: 0 15px; /* Add some space around the links */
+  font-weight: bold; /* Make the text bold */
+    font-size: 25px;
+    
+}
+  .cat a{
+    color: white; /* Link text color */
+  text-decoration: none; /* Remove default underline */
+  margin: 0 15px; /* Add some space around the links */
+  font-weight: bold; /* Make the text bold */
+    font-size: 25px;
+}
+  .home a{color: white; /* Link text color */
+  text-decoration: none; /* Remove default underline */
+  margin: 0 15px; /* Add some space around the links */
+  font-weight: bold; /* Make the text bold */
+    color: white; /* Link text color */
+  text-decoration: none; /* Remove default underline */
+  margin: 0 15px; /* Add some space around the links */
+  font-weight: bold; /* Make the text bold */
+    font-size: 25px;
+    margin-left: 500px;
+    
+}

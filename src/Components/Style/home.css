@@ -1,0 +1,41 @@
+.mainText{
+    white-space: nowrap; /* Prevent text from wrapping to the next line */
+  overflow: hidden; /* Hide the overflow of the container */
+  animation: moveText 9s linear infinite;
+}
+@keyframes moveText {
+    0% {
+      transform: translateX(0); /* Initial position */
+    }
+    100% {
+      transform: translateX(100%); /* Move to the right by 100% of the container width */
+    }
+  }
+  .imgBox{
+    width: 500px;
+  }
+  .Dosa{
+    width:500px;
+    margin-left: 0px;
+  }
+  .puri{
+    width: 500px;
+    margin-left: 0;
+  }
+  .mainText{
+    color: darkcyan;
+  }
+  .idlytext{
+    
+    text-align: left;
+    color: blue;
+  }
+  .btIdly{
+    size: 70px;
+    background: brown;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+    margin-right: 300px;
+
+  }

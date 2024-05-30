@@ -1,0 +1,49 @@
+.help-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    align-items: center;
+  }
+  
+  .help-page h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .help-page h2 {
+    font-size: 2em;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .faq-section {
+    margin-bottom: 40px;
+  }
+  
+  .faq-item {
+    margin-bottom: 20px;
+  }
+  
+  .faq-item h3 {
+    font-size: 1.5em;
+    color: #555;
+  }
+  
+  .faq-item p {
+    font-size: 1em;
+    color: #777;
+  }
+  
+  .contact-section {
+    margin-top: 40px;
+  }
+  
+  .contact-section p {
+    font-size: 1em;
+    color: #555;
+  }
+  
